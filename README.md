@@ -2,7 +2,7 @@
 
 
 ## Project Description
-This is the implementation of my project for the course mlops-zoomcamp from [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp).
+This is the implementation of my project for the course machine-learning-zoomcamp from [DataTalksClub](https://github.com/DataTalksClub/machine-learning-zoomcamp).
 The goal of this project is to deploy a web service for a machine learning model for customer churn in a Telco company.
 
 ## Problem Statement
